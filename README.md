@@ -31,11 +31,11 @@ me.greet()
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/374056/rust.svg"></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/e1667515-bb2d-478c-8aa7-a88b0062c699"></code>
 
 ----
 - 🔭 I’m currently working at Cogito NTNU and Tibby.
-- 🌱 I’m currently learning Kotlin and Rust
-- 💬 Ask me about object oriented programming!
+- 🌱 I’m currently learning Kotlin and Go
+- 💬 Ask me about Web Development and Information Retrieval!
 - 📫 How to reach me: alicezheng888@gmail.com
 
