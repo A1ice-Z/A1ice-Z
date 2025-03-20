@@ -31,7 +31,7 @@ me.greet()
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code>
-<code><img height="40" src="https://github.com/user-attachments/assets/87d0bced-2e1c-49c9-be20-8951f9313c96"></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/c28fee45-449a-47ad-824f-5f955b4efcec"></code>
 
 ----
 - 🔭 I’m currently working at Cogito NTNU and Tibby.
