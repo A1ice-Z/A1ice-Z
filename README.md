@@ -32,7 +32,7 @@ me.greet()
 <code><img height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code>
 <code><img height="40" src="https://github.com/user-attachments/assets/c28fee45-449a-47ad-824f-5f955b4efcec"></code>
-<code><img height="40" src="!https://github.com/user-attachments/assets/e95079bf-ea9a-4745-b33e-b5d4d308dfad"></code>
+<code><img height="40" src="https://bimi.entrust.net/ultralytics.com/logo.svg"></code>
 
 ----
 - 🔭 I’m currently working at Cogito NTNU and Tibby.
