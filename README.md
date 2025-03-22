@@ -2,7 +2,8 @@
   <h1>Hi there, I'm Alice Zheng 👋</h1>
 </div>
 
-![Terminal](https://s13.gifyu.com/images/SCNLi.gif)
+![terminal (3)](https://github.com/user-attachments/assets/8fdfcb9c-f3d6-456c-9832-9d6a80752646)
+
 
 ```python
 #script.py
