@@ -1,6 +1,8 @@
-### Hi there, I'm Alice Zheng 👋
+<div align="center"> 
+  <h1>Hi there, I'm Alice Zheng 👋</h1>
+</div>
 
-  ![Terminal](https://s13.gifyu.com/images/SCNLi.gif)
+![Terminal](https://s13.gifyu.com/images/SCNLi.gif)
 
 ```python
 #script.py
@@ -21,20 +23,56 @@ me = SoftwareEngineer("Alice Zheng", "Software Engineer",
                       ["Norwegian", "English", "Chinese"])
 me.greet()
 ```
-**Languages and Tools I have worked with:**
+<h1></h1>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A1ice-Z&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="A1ice-Z's Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1ice-Z&theme=blueberry&hide_border=false)" alt="A1ice-Z's Stats"/>
+</div>
+
+
+<h1></h1>
+
+**Languages I have worked with:**
+
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+
+
+<br/>
+
+
+**Frameworks I have worked with:**
+
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></code>
-<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code>
-<code><img height="40" src="https://github.com/user-attachments/assets/c28fee45-449a-47ad-824f-5f955b4efcec"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+
+
+<br/>
+
+
+**Tools I have worked with:**
+
+<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img height="40" src="https://bimi.entrust.net/ultralytics.com/logo.svg"></code>
 
-----
+
+<h1></h1>
+
 - 🔭 I’m currently working at Cogito NTNU and Tibby.
 - 🌱 I’m currently learning Kotlin and Go
 - 💬 Ask me about Web Development and Information Retrieval!
