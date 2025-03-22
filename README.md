@@ -2,7 +2,11 @@
   <h1>Hi there, I'm Alice Zheng 👋</h1>
 </div>
 
-![terminal (4)](https://github.com/user-attachments/assets/45d252fe-77a1-4c33-9b6e-ca035fb5354f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/45d252fe-77a1-4c33-9b6e-ca035fb5354f" alt="terminal gif">
+</div>
+
+<br/>
 
 ```python
 #script.py
