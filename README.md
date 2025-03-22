@@ -25,13 +25,12 @@ me = SoftwareEngineer("Alice Zheng", "Software Engineer",
 me.greet()
 ```
 <h1></h1>
-<br/>
 
+<p><br><br></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A1ice-Z&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="A1ice-Z's Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1ice-Z&theme=blueberry&hide_border=false)" alt="A1ice-Z's Stats"/>
 </div>
-
+<p><br><br></p>
 
 <h1></h1>
 
