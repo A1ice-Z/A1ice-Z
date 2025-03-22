@@ -2,8 +2,7 @@
   <h1>Hi there, I'm Alice Zheng 👋</h1>
 </div>
 
-![terminal (3)](https://github.com/user-attachments/assets/8fdfcb9c-f3d6-456c-9832-9d6a80752646)
-
+![terminal (4)](https://github.com/user-attachments/assets/45d252fe-77a1-4c33-9b6e-ca035fb5354f)
 
 ```python
 #script.py
