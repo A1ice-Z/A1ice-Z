@@ -27,15 +27,6 @@ me = SoftwareEngineer("Alice Zheng", "Software Engineer",
                       ["Norwegian", "English", "Chinese"])
 me.greet()
 ```
-<h1></h1>
-
-<p><br><br></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1ice-Z&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="A1ice-Z's Stats"/>
-</div>
-<p><br><br></p>
-
-<h1></h1>
 
 **Languages I have worked with:**
 
