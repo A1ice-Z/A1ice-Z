@@ -72,7 +72,17 @@ me.greet()
 **About Me**
 
 - 🔭 I’m currently working at Cogito NTNU and Tibby.
-- 🌱 I’m currently learning Kotlin and Go
+- 🌱 I’m currently learning C# and Go
 - 💬 Ask me about Web Development and Information Retrieval!
-- 📫 How to reach me: alicezheng888@gmail.com
+
+<br/>
+
+**How to reach me** 
+
+<a href="mailto:alicezheng888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/alice-z-21b351246">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
