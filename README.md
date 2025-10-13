@@ -28,6 +28,27 @@ me = SoftwareEngineer("Alice Zheng", "Software Engineer",
 me.greet()
 ```
 
+<h1></h1>
+
+**About Me**
+
+- 🔭 I’m currently working at Cogito NTNU and Tibby.
+- 🌱 I’m currently learning C# and Go
+- 💬 Ask me about Web Development and Information Retrieval!
+
+<br/>
+
+**How to reach me** 
+
+<a href="mailto:alicezheng888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/alice-z-21b351246">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<h1></h1>
+
 **Languages I have worked with:**
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" /></code>
@@ -65,24 +86,4 @@ me.greet()
 <code><img height="40" src="https://github.com/user-attachments/assets/17a26f4a-a8c3-43f1-a2ce-421aeaa8e8fd" /></code>
 <code><img height="40" src="https://github.com/user-attachments/assets/66ef5756-9f11-4d30-b4cd-2ee216050454" /></code>
 
-
-
-<h1></h1>
-
-**About Me**
-
-- 🔭 I’m currently working at Cogito NTNU and Tibby.
-- 🌱 I’m currently learning C# and Go
-- 💬 Ask me about Web Development and Information Retrieval!
-
-<br/>
-
-**How to reach me** 
-
-<a href="mailto:alicezheng888@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/alice-z-21b351246">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
