@@ -32,7 +32,7 @@ me.greet()
 
 **About Me**
 
-- 🔭 I’m currently working at Cogito NTNU and Tibby.
+- 🔭 I’m currently working at Cogito NTNU.
 - 🌱 I’m currently learning C# and Go
 - 💬 Ask me about Web Development and Information Retrieval!
 
