@@ -32,8 +32,8 @@ me.greet()
 
 **About Me**
 
-- 🔭 I’m currently working at Cogito NTNU.
-- 🌱 I’m currently learning C# and Go
+- 🔭 I’m currently working at Storebrand.
+- 🌱 I’m currently learning Go
 - 💬 Ask me about Web Development and Information Retrieval!
 
 <br/>
